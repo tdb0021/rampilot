@@ -1,3 +1,22 @@
+rampilot: a dashcam that also drives your truck. This made possible by @tunder! (github.com/tundergit)
+
+Recent: Auto High Beams Work Now! Comma 3 is now supported.
+
+Current limitations:
+
+Only supports Ram 1500 models with stock ACC/Lanesense.
+Lateral (steering) control only (for now).
+Steering cuts off at 31mph.
+
+
+
+
+
+Offical Comma ReadMe:
+
+
+
+
 ![](https://user-images.githubusercontent.com/37757984/127420744-89ca219c-8f8e-46d3-bccf-c1cb53b81bb1.png)
 
 Table of Contents
